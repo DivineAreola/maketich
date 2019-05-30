@@ -1,0 +1,97 @@
+body{
+	width: 1280px;
+	margin: 0px auto;
+	font-family: Roboto;
+}
+a{
+	text-decoration: none;
+}
+
+ul{
+	text-decoration: none;
+}
+
+li{
+	display: inline-block;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: normal;
+	text-align: center;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+	color: #4A4A4A;
+}
+
+.header{
+	width: 1280px;
+	height: 118px;
+
+}
+
+.container{
+	background-color: blue;
+	max-width:1187px;
+	height: 58px;
+	margin: 33px 53px 27px 40px;
+}
+
+.nav{
+	display: inline-block;
+	position: absolute;
+	width: 836px;
+	height: 35px;
+	margin-top: 16px;
+	margin-left: 151px;
+	margin-bottom: 7px;
+}
+.menu{
+	padding-top: 10px;
+	padding-bottom: 8px;
+}
+
+li:nth-child(1){
+	width: 67px;
+	height: 17px;
+	margin-right: 31px;
+}
+
+li:nth-child(2){
+	width: 57px;
+	height: 17px;
+	margin-right: 25px;
+}
+
+li:nth-child(3){
+	width: 67px;
+	height: 17px;
+	margin-right: 25px;
+}
+
+li:nth-child(4){
+	width: 119px;
+	height: 17px;
+	margin-right: 37px;
+}
+
+li:nth-child(5){
+	width: 51px;
+	height: 17px;
+	margin-right: 25.5px;
+}
+
+li:nth-child(6){
+	width: 98px;
+	height: 17px;
+	margin-right: 39.5px;
+}
+
+li:nth-child(7){
+	width: 79px;
+	height: 17px;
+	margin-right: 25px;
+}
+
+.palka{
+	display: inline-block;
+}
